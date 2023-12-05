@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eudel Cabrel aka FaraCoder
+- 👋 Hi, I’m Lefa Saif Arafi aka FaraCoder
 - I enjoy building Native Android Applications using KOTLIN programming language
 - Welcome and hope my repositories can help those looking for a better path in the same fields
 - Happy Coding to you Folks!
